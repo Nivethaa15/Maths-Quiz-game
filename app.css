@@ -275,7 +275,7 @@ input {
 }
 .notify {
   display: none;
-  background: black;
+  background: white;
   color: black;
   position: absolute;
   top: 100px;
